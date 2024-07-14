@@ -1,4 +1,6 @@
-This is a [go](https://go.dev/) backend project for a simple bank system
+# Ducki Bank
+
+This is a [go](https://go.dev/) backend project for a simple bank system.
 
 ## Getting Started
 
